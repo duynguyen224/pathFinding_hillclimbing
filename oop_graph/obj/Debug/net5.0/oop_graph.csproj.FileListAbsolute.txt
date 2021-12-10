@@ -1,0 +1,32 @@
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\oop_graph.exe
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\oop_graph.deps.json
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\oop_graph.runtimeconfig.json
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\oop_graph.runtimeconfig.dev.json
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\oop_graph.dll
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\ref\oop_graph.dll
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\bin\Debug\net5.0\oop_graph.pdb
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.csproj.AssemblyReference.cache
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.AssemblyInfoInputs.cache
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.AssemblyInfo.cs
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.csproj.CoreCompileInputs.cache
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.dll
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\ref\oop_graph.dll
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.pdb
+C:\Users\DUY\Desktop\Folder rác\oop_graph\oop_graph\obj\Debug\net5.0\oop_graph.genruntimeconfig.cache
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\oop_graph.exe
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\oop_graph.deps.json
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\oop_graph.runtimeconfig.json
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\oop_graph.runtimeconfig.dev.json
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\oop_graph.dll
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\ref\oop_graph.dll
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\bin\Debug\net5.0\oop_graph.pdb
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.csproj.AssemblyReference.cache
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.AssemblyInfoInputs.cache
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.AssemblyInfo.cs
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.csproj.CoreCompileInputs.cache
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.dll
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\ref\oop_graph.dll
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.pdb
+D:\8 Shortcut\Deskop\KY 7\1 Trí tuệ nhân tạo\2021\2021_hill_climbing_cuoiky\oop_graph\obj\Debug\net5.0\oop_graph.genruntimeconfig.cache
